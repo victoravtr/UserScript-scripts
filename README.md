@@ -1,2 +1,2 @@
-# tampermonkey-scripts
-My personal scripts for Tampermonkey
+# UserScript-scripts
+My personal scripts for UserScript
